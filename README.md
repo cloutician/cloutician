@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cloutician, MSc student in Software Engineering based in London, UK.
+- 👋 Hi, I’m @cloutician, MSc student in AI & Computer Science based in London, UK.
 - 👀 I’m interested in Java, C++, Python, JavaScript, etc
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently interested in Computer Vision oppurtunities.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 🗿
 
