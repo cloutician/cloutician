@@ -40,18 +40,13 @@ I like technical problems that take a bit of digging to understand properly.
   <img src="https://img.shields.io/badge/ONNX_Runtime-24292F?style=for-the-badge&amp;logo=onnx&amp;logoColor=8BB8E8" alt="ONNX Runtime" />
 </p>
 
-### Applications
+### Applications & infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Qt-24292F?style=for-the-badge&amp;logo=qt&amp;logoColor=41CD52" alt="Qt" />
   <img src="https://img.shields.io/badge/Android-24292F?style=for-the-badge&amp;logo=android&amp;logoColor=3DDC84" alt="Android" />
   <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-24292F?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" />
-</p>
-
-### Cloud & development tools
-
-<p>
   <img src="./assets/badges/aws.svg" alt="AWS" />
   <img src="./assets/badges/google-cloud.svg" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
