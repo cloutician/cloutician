@@ -16,7 +16,7 @@ I build software with C++, Python, Kotlin and TypeScript.
 
 Mostly interested in computer vision, machine learning, scientific software and cloud.
 
-I like technical problems that take a bit of digging to understand properly.
+Matrix multiplications, everywhere.
 
 ### Languages
 
