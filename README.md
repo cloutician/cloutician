@@ -59,6 +59,14 @@ I like technical problems that take a bit of digging to understand properly.
   <img src="https://img.shields.io/badge/CMake-24292F?style=for-the-badge&amp;logo=cmake&amp;logoColor=64A9E8" alt="CMake" />
 </p>
 
+### AI tools
+
+<p>
+  <img src="./assets/badges/chatgpt.svg" alt="ChatGPT" />
+  <img src="./assets/badges/cursor.svg" alt="Cursor" />
+  <img src="./assets/badges/claude.svg" alt="Claude" />
+</p>
+
 <details>
   <summary>More tools I work with</summary>
 
