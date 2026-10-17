@@ -62,7 +62,7 @@ I like technical problems that take a bit of digging to understand properly.
 ### AI tools
 
 <p>
-  <img src="./assets/badges/chatgpt.svg" alt="ChatGPT" />
+  <img src="./assets/badges/codex.svg" alt="Codex" />
   <img src="./assets/badges/cursor.svg" alt="Cursor" />
   <img src="./assets/badges/claude.svg" alt="Claude" />
 </p>
