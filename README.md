@@ -33,7 +33,7 @@ Matrix multiplications, everywhere.
 <p>
   <img src="https://img.shields.io/badge/PyTorch-24292F?style=for-the-badge&amp;logo=pytorch&amp;logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-24292F?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-24292F?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=F7931E" alt="scikit-learn" />
+  <img src="./assets/badges/scikit-learn.svg" alt="scikit-learn" />
   <img src="./assets/badges/opencv.svg" alt="OpenCV" />
   <img src="https://img.shields.io/badge/ONNX_Runtime-24292F?style=for-the-badge&amp;logo=onnx&amp;logoColor=8BB8E8" alt="ONNX Runtime" />
   <img src="https://img.shields.io/badge/CUDA-24292F?style=for-the-badge&amp;logo=nvidia&amp;logoColor=76B900" alt="CUDA" />
