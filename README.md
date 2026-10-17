@@ -12,9 +12,7 @@
 
 ---
 
-I build software with C++, Python, Kotlin and TypeScript.
-
-Mostly interested in computer vision, machine learning, scientific software and cloud.
+I build software.
 
 Matrix multiplications, everywhere.
 
